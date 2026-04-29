@@ -1,0 +1,72 @@
+{
+  "translation": {
+    "header": {
+      "promo": "✦ Frete grátis em compras acima de R$299 · Entrega em até 3 dias úteis",
+      "see_more": "Ver mais →",
+      "search_placeholder": "Buscar produtos...",
+      "cart": "Carrinho"
+    },
+    "categories": {
+      "all": "Todas",
+      "man": "Homem",
+      "woman": "Mulher",
+      "child": "Criança"
+    },
+    "cart": {
+      "title": "Carrinho",
+      "item": "item",
+      "items": "itens",
+      "empty": "Seu carrinho está vazio",
+      "subtotal": "Subtotal",
+      "shipping": "Frete",
+      "shipping_free": "Grátis",
+      "total": "Total",
+      "checkout": "Finalizar compra",
+      "secure_payment": "Pagamento 100% seguro · SSL",
+      "success_msg": "Pedido finalizado! Obrigado pela compra 🎉"
+    },
+    "products": {
+      "hero": {
+        "eyebrow": "Nova Coleção 2026",
+        "title_part1": "Design que",
+        "title_em": "inspira",
+        "title_part2": "o dia a dia.",
+        "desc": "Produtos cuidadosamente selecionados para quem valoriza estética e funcionalidade.",
+        "cta": "Ver produtos",
+        "chips": {
+          "products": "Produtos",
+          "delivery": "Entrega",
+          "delivery_val": "3 dias",
+          "secure": "Seguro",
+          "rating": "Avaliação"
+        }
+      },
+      "title": "Produtos em destaque",
+      "loading": "Carregando...",
+      "error": {
+        "title": "Erro ao carregar produtos",
+        "desc": "Verifique se o servidor backend está rodando em localhost:3000"
+      }
+    },
+    "product_card": {
+      "add_to_cart": "+ Adicionar ao carrinho"
+    },
+    "product": {
+      "back": "Voltar",
+      "add_to_cart": "Adicionar ao Carrinho",
+      "not_found": {
+        "title": "Produto não encontrado",
+        "desc": "Não conseguimos encontrar o produto que você está procurando.",
+        "back": "← Voltar à loja"
+      }
+    },
+    "notfound": {
+      "title": "404 — Página não encontrada",
+      "desc": "A página que você está procurando não existe ou foi movida.",
+      "back": "Voltar à loja"
+    },
+    "toast": {
+      "added": "adicionado!"
+    }
+  }
+}

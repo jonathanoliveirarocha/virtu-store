@@ -1,0 +1,72 @@
+{
+  "translation": {
+    "header": {
+      "promo": "✦ Kostenloser Versand ab $299 · Lieferung in bis zu 3 Werktagen",
+      "see_more": "Mehr sehen →",
+      "search_placeholder": "Produkte suchen...",
+      "cart": "Warenkorb"
+    },
+    "categories": {
+      "all": "Alle",
+      "man": "Mann",
+      "woman": "Frau",
+      "child": "Kind"
+    },
+    "cart": {
+      "title": "Warenkorb",
+      "item": "Artikel",
+      "items": "Artikel",
+      "empty": "Ihr Warenkorb ist leer",
+      "subtotal": "Zwischensumme",
+      "shipping": "Versand",
+      "shipping_free": "Kostenlos",
+      "total": "Gesamt",
+      "checkout": "Zur Kasse",
+      "secure_payment": "100% sichere Zahlung · SSL",
+      "success_msg": "Bestellung abgeschlossen! Danke für Ihren Einkauf 🎉"
+    },
+    "products": {
+      "hero": {
+        "eyebrow": "Neue Kollektion 2026",
+        "title_part1": "Design, das",
+        "title_em": "inspiriert",
+        "title_part2": "jeden Tag.",
+        "desc": "Sorgfältig ausgewählte Produkte für diejenigen, die Ästhetik und Funktionalität schätzen.",
+        "cta": "Produkte ansehen",
+        "chips": {
+          "products": "Produkte",
+          "delivery": "Lieferung",
+          "delivery_val": "3 Tage",
+          "secure": "Sicher",
+          "rating": "Bewertung"
+        }
+      },
+      "title": "Ausgewählte Produkte",
+      "loading": "Wird geladen...",
+      "error": {
+        "title": "Fehler beim Laden der Produkte",
+        "desc": "Überprüfen Sie, ob der Backend-Server auf localhost:3000 läuft"
+      }
+    },
+    "product_card": {
+      "add_to_cart": "+ In den Warenkorb"
+    },
+    "product": {
+      "back": "Zurück",
+      "add_to_cart": "In den Warenkorb",
+      "not_found": {
+        "title": "Produkt nicht gefunden",
+        "desc": "Wir konnten das gesuchte Produkt nicht finden.",
+        "back": "← Zurück zum Shop"
+      }
+    },
+    "notfound": {
+      "title": "404 — Seite nicht gefunden",
+      "desc": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+      "back": "Zurück zum Shop"
+    },
+    "toast": {
+      "added": "hinzugefügt!"
+    }
+  }
+}

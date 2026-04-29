@@ -1,0 +1,72 @@
+{
+  "translation": {
+    "header": {
+      "promo": "✦ Envío gratis en pedidos sobre $299 · Entrega en hasta 3 días hábiles",
+      "see_more": "Ver más →",
+      "search_placeholder": "Buscar productos...",
+      "cart": "Carrito"
+    },
+    "categories": {
+      "all": "Todos",
+      "man": "Hombre",
+      "woman": "Mujer",
+      "child": "Niño"
+    },
+    "cart": {
+      "title": "Carrito",
+      "item": "artículo",
+      "items": "artículos",
+      "empty": "Tu carrito está vacío",
+      "subtotal": "Subtotal",
+      "shipping": "Envío",
+      "shipping_free": "Gratis",
+      "total": "Total",
+      "checkout": "Finalizar compra",
+      "secure_payment": "Pago 100% seguro · SSL",
+      "success_msg": "¡Pedido completado! Gracias por tu compra 🎉"
+    },
+    "products": {
+      "hero": {
+        "eyebrow": "Nueva Colección 2026",
+        "title_part1": "Diseño que",
+        "title_em": "inspira",
+        "title_part2": "el día a día.",
+        "desc": "Productos cuidadosamente seleccionados para quienes valoran la estética y la funcionalidad.",
+        "cta": "Ver productos",
+        "chips": {
+          "products": "Productos",
+          "delivery": "Entrega",
+          "delivery_val": "3 días",
+          "secure": "Seguro",
+          "rating": "Calificación"
+        }
+      },
+      "title": "Productos Destacados",
+      "loading": "Cargando...",
+      "error": {
+        "title": "Error al cargar productos",
+        "desc": "Verifique si el servidor backend se está ejecutando en localhost:3000"
+      }
+    },
+    "product_card": {
+      "add_to_cart": "+ Añadir al carrito"
+    },
+    "product": {
+      "back": "Volver",
+      "add_to_cart": "Añadir al Carrito",
+      "not_found": {
+        "title": "Producto no encontrado",
+        "desc": "No pudimos encontrar el producto que estás buscando.",
+        "back": "← Volver a la tienda"
+      }
+    },
+    "notfound": {
+      "title": "404 — Página no encontrada",
+      "desc": "La página que estás buscando no existe o ha sido movida.",
+      "back": "Volver a la tienda"
+    },
+    "toast": {
+      "added": "¡añadido!"
+    }
+  }
+}

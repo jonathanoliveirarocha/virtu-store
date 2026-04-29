@@ -1,0 +1,72 @@
+{
+  "translation": {
+    "header": {
+      "promo": "✦ Livraison gratuite pour les commandes de plus de 299 $ · Livraison en 3 jours",
+      "see_more": "Voir plus →",
+      "search_placeholder": "Rechercher des produits...",
+      "cart": "Panier"
+    },
+    "categories": {
+      "all": "Tout",
+      "man": "Homme",
+      "woman": "Femme",
+      "child": "Enfant"
+    },
+    "cart": {
+      "title": "Panier",
+      "item": "article",
+      "items": "articles",
+      "empty": "Votre panier est vide",
+      "subtotal": "Sous-total",
+      "shipping": "Livraison",
+      "shipping_free": "Gratuite",
+      "total": "Total",
+      "checkout": "Payer",
+      "secure_payment": "Paiement 100% sécurisé · SSL",
+      "success_msg": "Commande terminée ! Merci pour votre achat 🎉"
+    },
+    "products": {
+      "hero": {
+        "eyebrow": "Nouvelle Collection 2026",
+        "title_part1": "Un design qui",
+        "title_em": "inspire",
+        "title_part2": "le quotidien.",
+        "desc": "Des produits soigneusement sélectionnés pour ceux qui apprécient l'esthétique et la fonctionnalité.",
+        "cta": "Voir les produits",
+        "chips": {
+          "products": "Produits",
+          "delivery": "Livraison",
+          "delivery_val": "3 jours",
+          "secure": "Sécurisé",
+          "rating": "Note"
+        }
+      },
+      "title": "Produits en vedette",
+      "loading": "Chargement...",
+      "error": {
+        "title": "Erreur lors du chargement des produits",
+        "desc": "Vérifiez si le serveur backend est en cours d'exécution sur localhost:3000"
+      }
+    },
+    "product_card": {
+      "add_to_cart": "+ Ajouter au panier"
+    },
+    "product": {
+      "back": "Retour",
+      "add_to_cart": "Ajouter au Panier",
+      "not_found": {
+        "title": "Produit non trouvé",
+        "desc": "Nous n'avons pas pu trouver le produit que vous recherchez.",
+        "back": "← Retour à la boutique"
+      }
+    },
+    "notfound": {
+      "title": "404 — Page non trouvée",
+      "desc": "La page que vous recherchez n'existe pas ou a été déplacée.",
+      "back": "Retour à la boutique"
+    },
+    "toast": {
+      "added": "ajouté !"
+    }
+  }
+}

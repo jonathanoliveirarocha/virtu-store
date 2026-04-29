@@ -1,0 +1,72 @@
+{
+  "translation": {
+    "header": {
+      "promo": "✦ Free shipping on orders over $299 · Delivery in up to 3 business days",
+      "see_more": "See more →",
+      "search_placeholder": "Search products...",
+      "cart": "Cart"
+    },
+    "categories": {
+      "all": "All",
+      "man": "Man",
+      "woman": "Woman",
+      "child": "Child"
+    },
+    "cart": {
+      "title": "Cart",
+      "item": "item",
+      "items": "items",
+      "empty": "Your cart is empty",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "shipping_free": "Free",
+      "total": "Total",
+      "checkout": "Checkout",
+      "secure_payment": "100% secure payment · SSL",
+      "success_msg": "Order completed! Thanks for your purchase 🎉"
+    },
+    "products": {
+      "hero": {
+        "eyebrow": "New Collection 2026",
+        "title_part1": "Design that",
+        "title_em": "inspires",
+        "title_part2": "everyday life.",
+        "desc": "Carefully selected products for those who value aesthetics and functionality.",
+        "cta": "View products",
+        "chips": {
+          "products": "Products",
+          "delivery": "Delivery",
+          "delivery_val": "3 days",
+          "secure": "Secure",
+          "rating": "Rating"
+        }
+      },
+      "title": "Featured Products",
+      "loading": "Loading...",
+      "error": {
+        "title": "Error loading products",
+        "desc": "Verify if the backend server is running on localhost:3000"
+      }
+    },
+    "product_card": {
+      "add_to_cart": "+ Add to cart"
+    },
+    "product": {
+      "back": "Back",
+      "add_to_cart": "Add to Cart",
+      "not_found": {
+        "title": "Product not found",
+        "desc": "We couldn't find the product you're looking for.",
+        "back": "← Back to store"
+      }
+    },
+    "notfound": {
+      "title": "404 — Page not found",
+      "desc": "The page you are looking for doesn't exist or has been moved.",
+      "back": "Back to store"
+    },
+    "toast": {
+      "added": "added!"
+    }
+  }
+}
