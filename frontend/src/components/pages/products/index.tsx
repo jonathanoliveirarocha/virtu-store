@@ -101,7 +101,6 @@ const Products = () => {
         {isError ? (
           <div className="flex flex-col items-center justify-center min-h-[40vh] gap-4 text-center p-10">
             <h2 className="text-2xl font-bold">{t("products.error.title")}</h2>
-            <p className="text-muted text-[15px]">{t("products.error.desc")}</p>
           </div>
         ) : (
           <>

@@ -44,8 +44,7 @@
       "title": "Produits en vedette",
       "loading": "Chargement...",
       "error": {
-        "title": "Erreur lors du chargement des produits",
-        "desc": "Vérifiez si le serveur backend est en cours d'exécution sur localhost:3000"
+        "title": "Erreur lors du chargement des produits"
       }
     },
     "product_card": {

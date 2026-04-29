@@ -44,8 +44,7 @@
       "title": "Produtos em destaque",
       "loading": "Carregando...",
       "error": {
-        "title": "Erro ao carregar produtos",
-        "desc": "Verifique se o servidor backend está rodando em localhost:3000"
+        "title": "Erro ao carregar produtos"
       }
     },
     "product_card": {

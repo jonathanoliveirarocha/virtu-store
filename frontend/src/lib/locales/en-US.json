@@ -44,8 +44,7 @@
       "title": "Featured Products",
       "loading": "Loading...",
       "error": {
-        "title": "Error loading products",
-        "desc": "Verify if the backend server is running on localhost:3000"
+        "title": "Error loading products"
       }
     },
     "product_card": {

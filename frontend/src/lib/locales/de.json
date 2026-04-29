@@ -44,8 +44,7 @@
       "title": "Ausgewählte Produkte",
       "loading": "Wird geladen...",
       "error": {
-        "title": "Fehler beim Laden der Produkte",
-        "desc": "Überprüfen Sie, ob der Backend-Server auf localhost:3000 läuft"
+        "title": "Fehler beim Laden der Produkte"
       }
     },
     "product_card": {
