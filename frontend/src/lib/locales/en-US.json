@@ -1,7 +1,7 @@
 {
   "translation": {
     "header": {
-      "promo": "✦ Free shipping on orders over $299 · Delivery in up to 3 business days",
+      "promo": "✦ Free shipping on orders over ${{price}} · Delivery in up to 3 business days",
       "see_more": "See more →",
       "search_placeholder": "Search products...",
       "cart": "Cart"

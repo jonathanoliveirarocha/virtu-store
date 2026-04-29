@@ -7,6 +7,7 @@ import LanguageSelector from "./LanguageSelector";
 import searchIcon from "@/assets/icons/search.svg";
 import cartIcon from "@/assets/icons/cart.svg";
 import checkIcon from "@/assets/icons/check.svg";
+import { MIN_TO_FREE_SHIPPING } from "@/components/const";
 
 export default function Header() {
   const { t } = useTranslation();
@@ -29,7 +30,7 @@ export default function Header() {
   return (
     <>
       <div className="bg-accent text-white text-center py-2.5 text-xs font-medium tracking-wide">
-        {t("header.promo")}
+        {t("header.promo", { price: MIN_TO_FREE_SHIPPING })}
         <button className="text-muted no-underline ml-2 hover:text-white transition-colors cursor-pointer bg-transparent border-none">
           {t("header.see_more")}
         </button>

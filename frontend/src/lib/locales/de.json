@@ -1,7 +1,7 @@
 {
   "translation": {
     "header": {
-      "promo": "✦ Kostenloser Versand ab $299 · Lieferung in bis zu 3 Werktagen",
+      "promo": "✦ Kostenloser Versand ab ${{price}} · Lieferung in bis zu 3 Werktagen",
       "see_more": "Mehr sehen →",
       "search_placeholder": "Produkte suchen...",
       "cart": "Warenkorb"

@@ -1,7 +1,7 @@
 {
   "translation": {
     "header": {
-      "promo": "✦ Livraison gratuite pour les commandes de plus de 299 $ · Livraison en 3 jours",
+      "promo": "✦ Livraison gratuite pour les commandes de plus de {{price}} $ · Livraison en 3 jours",
       "see_more": "Voir plus →",
       "search_placeholder": "Rechercher des produits...",
       "cart": "Panier"

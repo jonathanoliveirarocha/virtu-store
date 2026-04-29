@@ -1,7 +1,7 @@
 {
   "translation": {
     "header": {
-      "promo": "✦ Frete grátis em compras acima de R$299 · Entrega em até 3 dias úteis",
+      "promo": "✦ Frete grátis em compras acima de R${{price}} · Entrega em até 3 dias úteis",
       "see_more": "Ver mais →",
       "search_placeholder": "Buscar produtos...",
       "cart": "Carrinho"

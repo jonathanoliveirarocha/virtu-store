@@ -1,7 +1,7 @@
 {
   "translation": {
     "header": {
-      "promo": "✦ Envío gratis en pedidos sobre $299 · Entrega en hasta 3 días hábiles",
+      "promo": "✦ Envío gratis en pedidos sobre ${{price}} · Entrega en hasta 3 días hábiles",
       "see_more": "Ver más →",
       "search_placeholder": "Buscar productos...",
       "cart": "Carrito"

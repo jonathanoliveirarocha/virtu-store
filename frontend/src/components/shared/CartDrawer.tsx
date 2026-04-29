@@ -5,6 +5,7 @@ import xIcon from "@/assets/icons/x.svg";
 import cartIcon from "@/assets/icons/cart.svg";
 import checkIcon from "@/assets/icons/check.svg";
 import shieldIcon from "@/assets/icons/shield.svg";
+import { MIN_TO_FREE_SHIPPING } from "@/components/const";
 
 interface CartDrawerProps {
   isOpen: boolean;
@@ -63,7 +64,7 @@ export default function CartDrawer({ isOpen }: CartDrawerProps) {
             </div>
             <div className="flex justify-between mb-1.5 text-sm text-text-secondary">
               <span>{t("cart.shipping")}</span>
-              <span className="text-green-500 font-semibold">{t("cart.shipping_free")}</span>
+              <span className="text-green-500 font-semibold">{total >= MIN_TO_FREE_SHIPPING ? t("cart.shipping_free") : formatBRL(19.99)}</span>
             </div>
             <div className="flex justify-between items-baseline mb-5">
               <span className="text-[15px] font-semibold">{t("cart.total")}</span>
