@@ -4,6 +4,10 @@ A **Virtu Store** é uma plataforma de e-commerce de moda de luxo (*high-end*). 
 
 O projeto foca na experiência do usuário (*UX*) com um design minimalista, transições suaves e um sistema robusto de internacionalização e persistência de dados.
 
+### Preview
+
+https://github.com/user-attachments/assets/abe79f7e-ee36-4fcc-a3b0-aa0e87cf8dc7
+
 ---
 
 ## 🚀 Tecnologias e Conceitos Utilizados
@@ -105,3 +109,14 @@ Este repositório foi criado para demonstrar proficiência em:
 - Implementação de layouts complexos e responsivos com Tailwind CSS.
 - Gestão de estado e persistência de dados no lado do cliente.
 - Internacionalização e boas práticas de acessibilidade.
+
+
+
+
+
+
+
+
+
+
+
