@@ -1,0 +1,13 @@
+{
+  "name": "backend-mock",
+  "version": "1.0.0",
+  "description": "Mock Backend for Virtual Store",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch dbTeste.json --port 3000",
+    "start": "json-server --watch dbTeste.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

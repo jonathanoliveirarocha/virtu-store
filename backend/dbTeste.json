@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "JAQUETA TÉCNICA SHELL SKI RECCO® IMPERMEÁVEL",
+      "price": 1359.00,
+      "description": "Jaqueta esportiva regular fit confeccionada em tecido técnico com três camadas e membrana que proporciona proteção. Tecido resistente a uma penetração de água ≥15K. Costuras termosseladas para melhorar a impermeabilidade.",
+      "image": "https://static.zara.net/assets/public/b196/94d5/1c9c4077a385/98d893a16423/03286403500-e1/03286403500-e1.jpg?ts=1763730624612&w=418",
+      "category": "man"
+    },
+    {
+      "id": 2,
+      "name": "CALÇA SHELL SKI RECCO® WATERPROOF",
+      "price": 899,
+      "description": "Calça esportiva confeccionada em tecido técnico com três camadas e membrana que proporciona proteção. Tecido resistente a uma penetração de água ≥15K. A peça tem todas as costuras e zíperes termo selados para melhorar a impermeabilidade.",
+      "image": "https://static.zara.net/assets/public/6ade/9d80/048e4c9095d5/5951e344b9c3/03286402500-e1/03286402500-e1.jpg?ts=1763730585422&w=418",
+      "category": "man"
+    },
+    {
+      "id": 3,
+      "name": "TÊNIS DE TRILHA IMPERMEÁVEL RECCO®",
+      "price": 899,
+      "description": "Tênis de aproximação à prova d'água com sistema patenteado Recco® para encontrar pessoas presas sob uma avalanche ou perdidas em áreas de difícil acesso.",
+      "image": "https://static.zara.net/assets/public/052a/aab1/769f49eb99c9/411091005839/12384620800-ult38/12384620800-ult38.jpg?ts=1764675297206&w=418",
+      "category": "man"
+    },
+    {
+      "id": 4,
+      "name": "VESTIDO ASSIMÉTRICO COM BABADO",
+      "price": 1059,
+      "description": "Vestido com decote V e alças finas. Detalhe de aplicação em renda e combinação de tecidos no mesmo tom. Bainha assimétrica com babados plissados.",
+      "image": "https://static.zara.net/assets/public/7fe1/7f31/8e8040ac9fd4/0b38359eb6b0/img02-4259941d-2c7f-4f69-9b68-86804e2f1071_0/img02-4259941d-2c7f-4f69-9b68-86804e2f1071_0.jpg?ts=1776344786553&w=442",
+      "category": "woman"
+    },
+    {
+      "id": 5,
+      "name": "CALÇA PATCHWORK - THE ITEM ZARA WOMAN",
+      "price": 529,
+      "description": "Calça de cintura média com tecido principal confeccionado em fio de algodão. Cintura ajustável com fivela metálica. Bolsos frontais, bolso de patch com lapela na perna e bolso de patch nas costas. Detalhe de patchwork no tom. Fecho frontal com zíper, botão e ganchos metálicos.",
+      "image": "https://static.zara.net/assets/public/9b5c/b8a6/5394409c861c/37a0ebfb9129/img06-7ec020d8-a173-416c-b687-34421ab0e3d5_0/img06-7ec020d8-a173-416c-b687-34421ab0e3d5_0.jpg?ts=1776344788202&w=665",
+      "category": "woman"
+    },
+    {
+      "id": 6,
+      "name": "BOLSA DE COURO SACO COM COMPARTIMENTO DUPLO",
+      "price": 1799,
+      "description": "Bolsa de couro em formato de saco. Compartimento interior duplo. Alça de ombro. Bolso interno com fecho de zíper.",
+      "image": "https://static.zara.net/assets/public/efe7/9d00/c4e244f098ba/a3726332174e/11222630002-f1/11222630002-f1.jpg?ts=1762503467529&w=315",
+      "category": "woman"
+    },
+    {
+      "id": 7,
+      "name": "SUÉTER DE TRICÔ LISO",
+      "price": 155,
+      "description": "Suéter de tricô com gola redonda e manga ampla. Detalhe de acabamentos canelados.",
+      "image": "https://static.zara.net/assets/public/6bdc/e70b/b421497298a0/f6e0696bbe2e/05536760712-e1/05536760712-e1.jpg?ts=1756114331849&w=229",
+      "category": "child"
+    },
+    {
+      "id": 8,
+      "name": "CALÇA RETA COM PREGAS",
+      "price": 175,
+      "description": "Calça com cós elástico e cordões ajustáveis na parte interna. Bolsos frontais e bolsos de patch na parte traseira. Detalhe de pregas na frente.",
+      "image": "https://static.zara.net/assets/public/8bc6/d65b/c1ca4afb8085/297eab178ce9/06786790505-e1/06786790505-e1.jpg?ts=1764063111281&w=229",
+      "category": "child"
+    },
+    {
+      "id": 9,
+      "name": "BOTA ELÁSTICA",
+      "price": 249,
+      "description": "bota tipo Chelsea. Fecho com zíper lateral. Possui elástico na lateral e puxador na frente e atrás para facilitar o calçar. Palmilha flexível. Solado de borracha estilo tratorado.",
+      "image": "https://static.zara.net/assets/public/44c4/8ac8/efe24a068bfb/e51ba0333fae/14102630700-e2/14102630700-e2.jpg?ts=1753260601715&w=229",
+      "category": "child"
+    }
+  ]
+}
